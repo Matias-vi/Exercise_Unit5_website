@@ -1,0 +1,12 @@
+#MacOs
+.DS_store
+
+#Windows
+
+Thumbs.db
+
+#modules
+node_modules/
+
+#compilators dir
+*.log
